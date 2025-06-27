@@ -11,3 +11,6 @@
 
 #!.yarn/cache
 .pnp.*
+*wallet.json
+# Ignore the dev-wallet.json file
+
